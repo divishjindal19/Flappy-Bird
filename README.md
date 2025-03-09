@@ -17,12 +17,19 @@ A simple Flappy Bird clone built using **Python** and **Pygame**.
 - **restart.png** → Restart button.
 
 Run the game:
+
 python flappy.py
+
 🕹️ Controls
+
 Spacebar → Make the bird jump.
+
 Game Over Screen → Click the restart button to play again.
+
 📌 Dependencies
+
 Python 3.x
+
 Pygame
 
 
